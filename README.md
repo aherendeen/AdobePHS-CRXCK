@@ -1,0 +1,1 @@
+# AdobePHS-CRXCK
